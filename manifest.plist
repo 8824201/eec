@@ -11,19 +11,19 @@
 		<key>kind</key>
 		<string>software-package</string>
 		<key>ur1</key>
-		<string>https://github.com/8824201/eec/raw/main/EEC_Remit@com.eec.remitech.ipa</string>
+		<string>http://web.vnex.tw/ipa/EEC_Remit@com.eec.remitech.ipa</string>
 	    </dict>
 	    <dict>
 		<key>kind</key>
 		<string>display-image</string>
 		<key>ur1</key>
-		<string>https://raw.githubusercontent.com/8824201/eec/main/EEC_Remit57.png</string>
+		<string>http://web.vnex.tw/ipa/EEC_Remit57.png</string>
 	  </dict>
 	   <dict>
 		<key>kind</key>
 		<string>full-size-image</string>
 		<key>ur1</key>
-		<string>https://raw.githubusercontent.com/8824201/eec/main/EEC_Remit512.png</string>
+		<string>http://web.vnex.tw/ipa/EEC_Remit512.png</string>
 	  </dict>
 	 </array>
 	 <key>metadata</key>
@@ -37,7 +37,7 @@
 		<key>title</key>
 		<string>EEC_Remit</string>
 	</dict>
-                </dict>
-           </array>
+      </dict>
+    </array>
   </dict>
 </plist>
