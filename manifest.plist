@@ -11,7 +11,7 @@
 		<key>kind</key>
 		<string>software-package</string>
 		<key>ur1</key>
-		<string>http://web.vnex.tw/ipa/EEC_Remit@com.eec.remitech.ipa</string>
+		<string>https://github.com/8824201/eec/raw/main/EEC_Remit%40com.eec.remitech.ipa</string>
 	    </dict>
 	    <dict>
 		<key>kind</key>
